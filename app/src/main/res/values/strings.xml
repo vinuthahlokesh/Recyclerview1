@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Recyclerview1</string>
+    <string-array name="android_versions">
+        <item>Donut</item>
+        <item>pizza</item>
+        <item>oreomilkshake</item>
+        <item>mexicansoda</item>
+        <item>hot choclate</item>
+        <item>jamun</item>
+        <item>panipoori</item>
+        <item>masalpoori</item>
+        <item>swizler</item>
+        <item>icecream</item>
+        <item>deathbychoclate</item>
+        <item>dreamgirl</item>
+        <item>rasgulla</item>
+        <item>vadapav</item>
+        <item>chipsmasala</item>
+        <item>samosamasala</item>
+    </string-array>
+
+</resources>
